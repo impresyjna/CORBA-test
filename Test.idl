@@ -1,0 +1,8 @@
+module TestApp
+{
+  interface Test
+  {
+    oneway void shutdown();
+    };
+};
+
